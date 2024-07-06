@@ -1,0 +1,2001 @@
+,States,Agegrp,Year,Deaths
+0,Alabama,1-4 years,2018,23
+1,Alabama,1-4 years,2019,68
+2,Alabama,1-4 years,2020,33
+3,Alabama,1-4 years,2021,54
+4,Alabama,15-24 years,2018,671
+5,Alabama,15-24 years,2019,623
+6,Alabama,15-24 years,2020,728
+7,Alabama,15-24 years,2021,798
+8,Alabama,25-34 years,2018,1148
+9,Alabama,25-34 years,2019,1158
+10,Alabama,25-34 years,2020,1371
+11,Alabama,25-34 years,2021,1688
+12,Alabama,35-44 years,2018,1820
+13,Alabama,35-44 years,2019,1794
+14,Alabama,35-44 years,2020,2226
+15,Alabama,35-44 years,2021,2761
+16,Alabama,45-54 years,2018,3596
+17,Alabama,45-54 years,2019,3447
+18,Alabama,45-54 years,2020,4173
+19,Alabama,45-54 years,2021,4989
+20,Alabama,5-14 years,2018,67
+21,Alabama,5-14 years,2019,87
+22,Alabama,5-14 years,2020,53
+23,Alabama,5-14 years,2021,98
+24,Alabama,55-64 years,2018,8096
+25,Alabama,55-64 years,2019,7943
+26,Alabama,55-64 years,2020,9585
+27,Alabama,55-64 years,2021,10781
+28,Alabama,65-74 years,2018,11581
+29,Alabama,65-74 years,2019,11917
+30,Alabama,65-74 years,2020,14323
+31,Alabama,65-74 years,2021,15870
+32,Alabama,75-84 years,2018,13569
+33,Alabama,75-84 years,2019,13458
+34,Alabama,75-84 years,2020,16328
+35,Alabama,75-84 years,2021,16768
+36,Alabama,85+ years,2018,13271
+37,Alabama,85+ years,2019,13080
+38,Alabama,85+ years,2020,15447
+39,Alabama,85+ years,2021,14555
+40,Alabama,< 1 year,2018,405
+41,Alabama,< 1 year,2019,449
+42,Alabama,< 1 year,2020,404
+43,Alabama,< 1 year,2021,444
+44,Alaska,15-24 years,2018,30
+45,Alaska,15-24 years,2019,87
+46,Alaska,15-24 years,2020,105
+47,Alaska,15-24 years,2021,112
+48,Alaska,25-34 years,2018,193
+49,Alaska,25-34 years,2019,227
+50,Alaska,25-34 years,2020,238
+51,Alaska,25-34 years,2021,302
+52,Alaska,35-44 years,2018,197
+53,Alaska,35-44 years,2019,242
+54,Alaska,35-44 years,2020,285
+55,Alaska,35-44 years,2021,376
+56,Alaska,45-54 years,2018,401
+57,Alaska,45-54 years,2019,335
+58,Alaska,45-54 years,2020,409
+59,Alaska,45-54 years,2021,531
+60,Alaska,55-64 years,2018,766
+61,Alaska,55-64 years,2019,769
+62,Alaska,55-64 years,2020,856
+63,Alaska,55-64 years,2021,1002
+64,Alaska,65-74 years,2018,949
+65,Alaska,65-74 years,2019,1022
+66,Alaska,65-74 years,2020,1134
+67,Alaska,65-74 years,2021,1437
+68,Alaska,75-84 years,2018,923
+69,Alaska,75-84 years,2019,979
+70,Alaska,75-84 years,2020,1094
+71,Alaska,75-84 years,2021,1278
+72,Alaska,85+ years,2018,821
+73,Alaska,85+ years,2019,826
+74,Alaska,85+ years,2020,930
+75,Alaska,85+ years,2021,1046
+76,Alaska,< 1 year,2021,10
+77,Arizona,1-4 years,2018,67
+78,Arizona,1-4 years,2019,20
+79,Arizona,1-4 years,2020,49
+80,Arizona,1-4 years,2021,45
+81,Arizona,15-24 years,2018,859
+82,Arizona,15-24 years,2019,845
+83,Arizona,15-24 years,2020,1082
+84,Arizona,15-24 years,2021,1137
+85,Arizona,25-34 years,2018,1450
+86,Arizona,25-34 years,2019,1510
+87,Arizona,25-34 years,2020,2072
+88,Arizona,25-34 years,2021,2333
+89,Arizona,35-44 years,2018,1720
+90,Arizona,35-44 years,2019,1929
+91,Arizona,35-44 years,2020,2622
+92,Arizona,35-44 years,2021,3230
+93,Arizona,45-54 years,2018,3480
+94,Arizona,45-54 years,2019,3389
+95,Arizona,45-54 years,2020,4319
+96,Arizona,45-54 years,2021,5285
+97,Arizona,5-14 years,2018,90
+98,Arizona,5-14 years,2019,121
+99,Arizona,5-14 years,2020,123
+100,Arizona,5-14 years,2021,122
+101,Arizona,55-64 years,2018,7458
+102,Arizona,55-64 years,2019,7462
+103,Arizona,55-64 years,2020,9695
+104,Arizona,55-64 years,2021,10763
+105,Arizona,65-74 years,2018,11537
+106,Arizona,65-74 years,2019,11959
+107,Arizona,65-74 years,2020,15436
+108,Arizona,65-74 years,2021,17381
+109,Arizona,75-84 years,2018,14893
+110,Arizona,75-84 years,2019,15418
+111,Arizona,75-84 years,2020,19322
+112,Arizona,75-84 years,2021,20705
+113,Arizona,85+ years,2018,17188
+114,Arizona,85+ years,2019,17069
+115,Arizona,85+ years,2020,20546
+116,Arizona,85+ years,2021,19927
+117,Arizona,< 1 year,2018,451
+118,Arizona,< 1 year,2019,429
+119,Arizona,< 1 year,2020,405
+120,Arizona,< 1 year,2021,429
+121,Arkansas,1-4 years,2018,20
+122,Arkansas,15-24 years,2018,365
+123,Arkansas,15-24 years,2019,389
+124,Arkansas,15-24 years,2020,430
+125,Arkansas,15-24 years,2021,438
+126,Arkansas,25-34 years,2018,620
+127,Arkansas,25-34 years,2019,571
+128,Arkansas,25-34 years,2020,781
+129,Arkansas,25-34 years,2021,929
+130,Arkansas,35-44 years,2018,983
+131,Arkansas,35-44 years,2019,999
+132,Arkansas,35-44 years,2020,1283
+133,Arkansas,35-44 years,2021,1586
+134,Arkansas,45-54 years,2018,2059
+135,Arkansas,45-54 years,2019,1952
+136,Arkansas,45-54 years,2020,2269
+137,Arkansas,45-54 years,2021,2734
+138,Arkansas,5-14 years,2018,21
+139,Arkansas,5-14 years,2020,10
+140,Arkansas,5-14 years,2021,23
+141,Arkansas,55-64 years,2018,4655
+142,Arkansas,55-64 years,2019,4781
+143,Arkansas,55-64 years,2020,5496
+144,Arkansas,55-64 years,2021,6073
+145,Arkansas,65-74 years,2018,6766
+146,Arkansas,65-74 years,2019,7053
+147,Arkansas,65-74 years,2020,8270
+148,Arkansas,65-74 years,2021,9068
+149,Arkansas,75-84 years,2018,8262
+150,Arkansas,75-84 years,2019,8445
+151,Arkansas,75-84 years,2020,9587
+152,Arkansas,75-84 years,2021,9828
+153,Arkansas,85+ years,2018,8207
+154,Arkansas,85+ years,2019,8322
+155,Arkansas,85+ years,2020,9600
+156,Arkansas,85+ years,2021,8970
+157,Arkansas,< 1 year,2018,279
+158,Arkansas,< 1 year,2019,251
+159,Arkansas,< 1 year,2020,264
+160,Arkansas,< 1 year,2021,313
+161,California,1-4 years,2018,342
+162,California,1-4 years,2019,314
+163,California,1-4 years,2020,317
+164,California,1-4 years,2021,306
+165,California,15-24 years,2018,2915
+166,California,15-24 years,2019,2904
+167,California,15-24 years,2020,3800
+168,California,15-24 years,2021,3849
+169,California,25-34 years,2018,5359
+170,California,25-34 years,2019,5724
+171,California,25-34 years,2020,7454
+172,California,25-34 years,2021,8595
+173,California,35-44 years,2018,7413
+174,California,35-44 years,2019,7750
+175,California,35-44 years,2020,10251
+176,California,35-44 years,2021,12463
+177,California,45-54 years,2018,15465
+178,California,45-54 years,2019,15143
+179,California,45-54 years,2020,18831
+180,California,45-54 years,2021,21368
+181,California,5-14 years,2018,478
+182,California,5-14 years,2019,490
+183,California,5-14 years,2020,541
+184,California,5-14 years,2021,534
+185,California,55-64 years,2018,34198
+186,California,55-64 years,2019,34093
+187,California,55-64 years,2020,41234
+188,California,55-64 years,2021,45027
+189,California,65-74 years,2018,48803
+190,California,65-74 years,2019,49162
+191,California,65-74 years,2020,60463
+192,California,65-74 years,2021,64875
+193,California,75-84 years,2018,61739
+194,California,75-84 years,2019,62369
+195,California,75-84 years,2020,73450
+196,California,75-84 years,2021,75686
+197,California,85+ years,2018,90173
+198,California,85+ years,2019,89969
+199,California,85+ years,2020,101789
+200,California,85+ years,2021,98821
+201,California,< 1 year,2018,1909
+202,California,< 1 year,2019,1879
+203,California,< 1 year,2020,1651
+204,California,< 1 year,2021,1704
+205,Colorado,1-4 years,2018,10
+206,Colorado,15-24 years,2018,544
+207,Colorado,15-24 years,2019,584
+208,Colorado,15-24 years,2020,724
+209,Colorado,15-24 years,2021,743
+210,Colorado,25-34 years,2018,1041
+211,Colorado,25-34 years,2019,1097
+212,Colorado,25-34 years,2020,1368
+213,Colorado,25-34 years,2021,1570
+214,Colorado,35-44 years,2018,1330
+215,Colorado,35-44 years,2019,1381
+216,Colorado,35-44 years,2020,1733
+217,Colorado,35-44 years,2021,2162
+218,Colorado,45-54 years,2018,2309
+219,Colorado,45-54 years,2019,2283
+220,Colorado,45-54 years,2020,2788
+221,Colorado,45-54 years,2021,3135
+222,Colorado,5-14 years,2018,33
+223,Colorado,5-14 years,2019,44
+224,Colorado,5-14 years,2020,12
+225,Colorado,5-14 years,2021,81
+226,Colorado,55-64 years,2018,5024
+227,Colorado,55-64 years,2019,5180
+228,Colorado,55-64 years,2020,5810
+229,Colorado,55-64 years,2021,6335
+230,Colorado,65-74 years,2018,7107
+231,Colorado,65-74 years,2019,7426
+232,Colorado,65-74 years,2020,9023
+233,Colorado,65-74 years,2021,9750
+234,Colorado,75-84 years,2018,8708
+235,Colorado,75-84 years,2019,9058
+236,Colorado,75-84 years,2020,10903
+237,Colorado,75-84 years,2021,11183
+238,Colorado,85+ years,2018,11989
+239,Colorado,85+ years,2019,11937
+240,Colorado,85+ years,2020,14146
+241,Colorado,85+ years,2021,12928
+242,Colorado,< 1 year,2018,298
+243,Colorado,< 1 year,2019,306
+244,Colorado,< 1 year,2020,294
+245,Colorado,< 1 year,2021,315
+246,Connecticut,15-24 years,2018,251
+247,Connecticut,15-24 years,2019,239
+248,Connecticut,15-24 years,2020,278
+249,Connecticut,15-24 years,2021,291
+250,Connecticut,25-34 years,2018,555
+251,Connecticut,25-34 years,2019,601
+252,Connecticut,25-34 years,2020,694
+253,Connecticut,25-34 years,2021,676
+254,Connecticut,35-44 years,2018,757
+255,Connecticut,35-44 years,2019,787
+256,Connecticut,35-44 years,2020,968
+257,Connecticut,35-44 years,2021,1069
+258,Connecticut,45-54 years,2018,1624
+259,Connecticut,45-54 years,2019,1535
+260,Connecticut,45-54 years,2020,1870
+261,Connecticut,45-54 years,2021,1749
+262,Connecticut,5-14 years,2018,10
+263,Connecticut,55-64 years,2018,3465
+264,Connecticut,55-64 years,2019,3570
+265,Connecticut,55-64 years,2020,4245
+266,Connecticut,55-64 years,2021,4302
+267,Connecticut,65-74 years,2018,4912
+268,Connecticut,65-74 years,2019,5182
+269,Connecticut,65-74 years,2020,6336
+270,Connecticut,65-74 years,2021,5941
+271,Connecticut,75-84 years,2018,7029
+272,Connecticut,75-84 years,2019,7209
+273,Connecticut,75-84 years,2020,8838
+274,Connecticut,75-84 years,2021,8091
+275,Connecticut,85+ years,2018,12421
+276,Connecticut,85+ years,2019,12415
+277,Connecticut,85+ years,2020,14422
+278,Connecticut,85+ years,2021,11980
+279,Connecticut,< 1 year,2018,125
+280,Connecticut,< 1 year,2019,127
+281,Connecticut,< 1 year,2020,127
+282,Connecticut,< 1 year,2021,167
+283,Delaware,15-24 years,2018,44
+284,Delaware,15-24 years,2019,26
+285,Delaware,15-24 years,2020,84
+286,Delaware,15-24 years,2021,92
+287,Delaware,25-34 years,2018,235
+288,Delaware,25-34 years,2019,254
+289,Delaware,25-34 years,2020,243
+290,Delaware,25-34 years,2021,260
+291,Delaware,35-44 years,2018,291
+292,Delaware,35-44 years,2019,315
+293,Delaware,35-44 years,2020,317
+294,Delaware,35-44 years,2021,395
+295,Delaware,45-54 years,2018,555
+296,Delaware,45-54 years,2019,516
+297,Delaware,45-54 years,2020,585
+298,Delaware,45-54 years,2021,636
+299,Delaware,55-64 years,2018,1163
+300,Delaware,55-64 years,2019,1200
+301,Delaware,55-64 years,2020,1355
+302,Delaware,55-64 years,2021,1538
+303,Delaware,65-74 years,2018,1808
+304,Delaware,65-74 years,2019,1796
+305,Delaware,65-74 years,2020,2268
+306,Delaware,65-74 years,2021,2437
+307,Delaware,75-84 years,2018,2307
+308,Delaware,75-84 years,2019,2283
+309,Delaware,75-84 years,2020,2816
+310,Delaware,75-84 years,2021,2850
+311,Delaware,85+ years,2018,2879
+312,Delaware,85+ years,2019,2752
+313,Delaware,85+ years,2020,3296
+314,Delaware,85+ years,2021,2978
+315,Delaware,< 1 year,2019,12
+316,District of Columbia,15-24 years,2018,21
+317,District of Columbia,15-24 years,2019,46
+318,District of Columbia,15-24 years,2020,51
+319,District of Columbia,15-24 years,2021,21
+320,District of Columbia,25-34 years,2018,148
+321,District of Columbia,25-34 years,2019,120
+322,District of Columbia,25-34 years,2020,188
+323,District of Columbia,25-34 years,2021,219
+324,District of Columbia,35-44 years,2018,199
+325,District of Columbia,35-44 years,2019,204
+326,District of Columbia,35-44 years,2020,264
+327,District of Columbia,35-44 years,2021,267
+328,District of Columbia,45-54 years,2018,399
+329,District of Columbia,45-54 years,2019,391
+330,District of Columbia,45-54 years,2020,410
+331,District of Columbia,45-54 years,2021,426
+332,District of Columbia,55-64 years,2018,900
+333,District of Columbia,55-64 years,2019,862
+334,District of Columbia,55-64 years,2020,1107
+335,District of Columbia,55-64 years,2021,1064
+336,District of Columbia,65-74 years,2018,961
+337,District of Columbia,65-74 years,2019,970
+338,District of Columbia,65-74 years,2020,1337
+339,District of Columbia,65-74 years,2021,1316
+340,District of Columbia,75-84 years,2018,913
+341,District of Columbia,75-84 years,2019,957
+342,District of Columbia,75-84 years,2020,1170
+343,District of Columbia,75-84 years,2021,1106
+344,District of Columbia,85+ years,2018,1326
+345,District of Columbia,85+ years,2019,1238
+346,District of Columbia,85+ years,2020,1551
+347,District of Columbia,85+ years,2021,1278
+348,Florida,1-4 years,2018,246
+349,Florida,1-4 years,2019,222
+350,Florida,1-4 years,2020,231
+351,Florida,1-4 years,2021,280
+352,Florida,15-24 years,2018,1862
+353,Florida,15-24 years,2019,1862
+354,Florida,15-24 years,2020,2159
+355,Florida,15-24 years,2021,2318
+356,Florida,25-34 years,2018,3921
+357,Florida,25-34 years,2019,4091
+358,Florida,25-34 years,2020,4874
+359,Florida,25-34 years,2021,5735
+360,Florida,35-44 years,2018,5357
+361,Florida,35-44 years,2019,5602
+362,Florida,35-44 years,2020,7001
+363,Florida,35-44 years,2021,8900
+364,Florida,45-54 years,2018,11015
+365,Florida,45-54 years,2019,10781
+366,Florida,45-54 years,2020,12292
+367,Florida,45-54 years,2021,15101
+368,Florida,5-14 years,2018,300
+369,Florida,5-14 years,2019,304
+370,Florida,5-14 years,2020,349
+371,Florida,5-14 years,2021,347
+372,Florida,55-64 years,2018,25901
+373,Florida,55-64 years,2019,25856
+374,Florida,55-64 years,2020,29523
+375,Florida,55-64 years,2021,34316
+376,Florida,65-74 years,2018,39043
+377,Florida,65-74 years,2019,39396
+378,Florida,65-74 years,2020,46232
+379,Florida,65-74 years,2021,52520
+380,Florida,75-84 years,2018,50628
+381,Florida,75-84 years,2019,51798
+382,Florida,75-84 years,2020,60965
+383,Florida,75-84 years,2021,65643
+384,Florida,85+ years,2018,65812
+385,Florida,85+ years,2019,65757
+386,Florida,85+ years,2020,74833
+387,Florida,85+ years,2021,74932
+388,Florida,< 1 year,2018,1332
+389,Florida,< 1 year,2019,1330
+390,Florida,< 1 year,2020,1214
+391,Florida,< 1 year,2021,1268
+392,Georgia,1-4 years,2018,115
+393,Georgia,1-4 years,2019,155
+394,Georgia,1-4 years,2020,126
+395,Georgia,1-4 years,2021,159
+396,Georgia,15-24 years,2018,1096
+397,Georgia,15-24 years,2019,1076
+398,Georgia,15-24 years,2020,1303
+399,Georgia,15-24 years,2021,1524
+400,Georgia,25-34 years,2018,1930
+401,Georgia,25-34 years,2019,1911
+402,Georgia,25-34 years,2020,2474
+403,Georgia,25-34 years,2021,3041
+404,Georgia,35-44 years,2018,2875
+405,Georgia,35-44 years,2019,2912
+406,Georgia,35-44 years,2020,3670
+407,Georgia,35-44 years,2021,4614
+408,Georgia,45-54 years,2018,6031
+409,Georgia,45-54 years,2019,5953
+410,Georgia,45-54 years,2020,7061
+411,Georgia,45-54 years,2021,8549
+412,Georgia,5-14 years,2018,208
+413,Georgia,5-14 years,2019,223
+414,Georgia,5-14 years,2020,245
+415,Georgia,5-14 years,2021,258
+416,Georgia,55-64 years,2018,12962
+417,Georgia,55-64 years,2019,13110
+418,Georgia,55-64 years,2020,15694
+419,Georgia,55-64 years,2021,17720
+420,Georgia,65-74 years,2018,18316
+421,Georgia,65-74 years,2019,18657
+422,Georgia,65-74 years,2020,22470
+423,Georgia,65-74 years,2021,25198
+424,Georgia,75-84 years,2018,20187
+425,Georgia,75-84 years,2019,20400
+426,Georgia,75-84 years,2020,24929
+427,Georgia,75-84 years,2021,26657
+428,Georgia,85+ years,2018,20564
+429,Georgia,85+ years,2019,20519
+430,Georgia,85+ years,2020,24309
+431,Georgia,85+ years,2021,23771
+432,Georgia,< 1 year,2018,888
+433,Georgia,< 1 year,2019,888
+434,Georgia,< 1 year,2020,765
+435,Georgia,< 1 year,2021,770
+436,Hawaii,15-24 years,2018,21
+437,Hawaii,15-24 years,2019,24
+438,Hawaii,15-24 years,2020,24
+439,Hawaii,15-24 years,2021,25
+440,Hawaii,25-34 years,2018,173
+441,Hawaii,25-34 years,2019,187
+442,Hawaii,25-34 years,2020,167
+443,Hawaii,25-34 years,2021,205
+444,Hawaii,35-44 years,2018,263
+445,Hawaii,35-44 years,2019,327
+446,Hawaii,35-44 years,2020,328
+447,Hawaii,35-44 years,2021,382
+448,Hawaii,45-54 years,2018,583
+449,Hawaii,45-54 years,2019,632
+450,Hawaii,45-54 years,2020,630
+451,Hawaii,45-54 years,2021,730
+452,Hawaii,55-64 years,2018,1380
+453,Hawaii,55-64 years,2019,1374
+454,Hawaii,55-64 years,2020,1441
+455,Hawaii,55-64 years,2021,1603
+456,Hawaii,65-74 years,2018,2181
+457,Hawaii,65-74 years,2019,2099
+458,Hawaii,65-74 years,2020,2363
+459,Hawaii,65-74 years,2021,2524
+460,Hawaii,75-84 years,2018,2334
+461,Hawaii,75-84 years,2019,2392
+462,Hawaii,75-84 years,2020,2563
+463,Hawaii,75-84 years,2021,2746
+464,Hawaii,85+ years,2018,4260
+465,Hawaii,85+ years,2019,4337
+466,Hawaii,85+ years,2020,4339
+467,Hawaii,85+ years,2021,4434
+468,Hawaii,< 1 year,2018,75
+469,Hawaii,< 1 year,2021,12
+470,Idaho,15-24 years,2018,222
+471,Idaho,15-24 years,2019,157
+472,Idaho,15-24 years,2020,197
+473,Idaho,15-24 years,2021,223
+474,Idaho,25-34 years,2018,240
+475,Idaho,25-34 years,2019,226
+476,Idaho,25-34 years,2020,292
+477,Idaho,25-34 years,2021,380
+478,Idaho,35-44 years,2018,372
+479,Idaho,35-44 years,2019,372
+480,Idaho,35-44 years,2020,456
+481,Idaho,35-44 years,2021,569
+482,Idaho,45-54 years,2018,738
+483,Idaho,45-54 years,2019,665
+484,Idaho,45-54 years,2020,772
+485,Idaho,45-54 years,2021,987
+486,Idaho,5-14 years,2020,11
+487,Idaho,55-64 years,2018,1667
+488,Idaho,55-64 years,2019,1648
+489,Idaho,55-64 years,2020,1868
+490,Idaho,55-64 years,2021,2278
+491,Idaho,65-74 years,2018,2817
+492,Idaho,65-74 years,2019,2775
+493,Idaho,65-74 years,2020,3250
+494,Idaho,65-74 years,2021,3890
+495,Idaho,75-84 years,2018,3538
+496,Idaho,75-84 years,2019,3890
+497,Idaho,75-84 years,2020,4380
+498,Idaho,75-84 years,2021,4720
+499,Idaho,85+ years,2018,4497
+500,Idaho,85+ years,2019,4511
+501,Idaho,85+ years,2020,5023
+502,Idaho,85+ years,2021,5116
+503,Idaho,< 1 year,2018,56
+504,Idaho,< 1 year,2019,31
+505,Idaho,< 1 year,2020,63
+506,Idaho,< 1 year,2021,65
+507,Illinois,1-4 years,2018,91
+508,Illinois,1-4 years,2019,79
+509,Illinois,1-4 years,2020,76
+510,Illinois,1-4 years,2021,73
+511,Illinois,15-24 years,2018,1176
+512,Illinois,15-24 years,2019,1109
+513,Illinois,15-24 years,2020,1425
+514,Illinois,15-24 years,2021,1459
+515,Illinois,25-34 years,2018,2197
+516,Illinois,25-34 years,2019,2138
+517,Illinois,25-34 years,2020,2672
+518,Illinois,25-34 years,2021,2861
+519,Illinois,35-44 years,2018,2937
+520,Illinois,35-44 years,2019,3042
+521,Illinois,35-44 years,2020,3770
+522,Illinois,35-44 years,2021,4012
+523,Illinois,45-54 years,2018,6048
+524,Illinois,45-54 years,2019,5981
+525,Illinois,45-54 years,2020,7183
+526,Illinois,45-54 years,2021,7413
+527,Illinois,5-14 years,2018,223
+528,Illinois,5-14 years,2019,170
+529,Illinois,5-14 years,2020,207
+530,Illinois,5-14 years,2021,234
+531,Illinois,55-64 years,2018,14564
+532,Illinois,55-64 years,2019,13981
+533,Illinois,55-64 years,2020,17084
+534,Illinois,55-64 years,2021,16764
+535,Illinois,65-74 years,2018,20089
+536,Illinois,65-74 years,2019,20643
+537,Illinois,65-74 years,2020,26040
+538,Illinois,65-74 years,2021,25683
+539,Illinois,75-84 years,2018,25838
+540,Illinois,75-84 years,2019,25963
+541,Illinois,75-84 years,2020,31661
+542,Illinois,75-84 years,2021,29580
+543,Illinois,85+ years,2018,35879
+544,Illinois,85+ years,2019,35143
+545,Illinois,85+ years,2020,41752
+546,Illinois,85+ years,2021,36165
+547,Illinois,< 1 year,2018,942
+548,Illinois,< 1 year,2019,794
+549,Illinois,< 1 year,2020,737
+550,Illinois,< 1 year,2021,743
+551,Indiana,1-4 years,2018,12
+552,Indiana,1-4 years,2019,35
+553,Indiana,1-4 years,2020,32
+554,Indiana,1-4 years,2021,63
+555,Indiana,15-24 years,2018,782
+556,Indiana,15-24 years,2019,751
+557,Indiana,15-24 years,2020,916
+558,Indiana,15-24 years,2021,1007
+559,Indiana,25-34 years,2018,1330
+560,Indiana,25-34 years,2019,1417
+561,Indiana,25-34 years,2020,1835
+562,Indiana,25-34 years,2021,1947
+563,Indiana,35-44 years,2018,1955
+564,Indiana,35-44 years,2019,1940
+565,Indiana,35-44 years,2020,2391
+566,Indiana,35-44 years,2021,2794
+567,Indiana,45-54 years,2018,3900
+568,Indiana,45-54 years,2019,3811
+569,Indiana,45-54 years,2020,4379
+570,Indiana,45-54 years,2021,4861
+571,Indiana,5-14 years,2018,103
+572,Indiana,5-14 years,2019,97
+573,Indiana,5-14 years,2020,123
+574,Indiana,5-14 years,2021,148
+575,Indiana,55-64 years,2018,9008
+576,Indiana,55-64 years,2019,8915
+577,Indiana,55-64 years,2020,10343
+578,Indiana,55-64 years,2021,10993
+579,Indiana,65-74 years,2018,12888
+580,Indiana,65-74 years,2019,13361
+581,Indiana,65-74 years,2020,15725
+582,Indiana,65-74 years,2021,17134
+583,Indiana,75-84 years,2018,15762
+584,Indiana,75-84 years,2019,16045
+585,Indiana,75-84 years,2020,19196
+586,Indiana,75-84 years,2021,18786
+587,Indiana,85+ years,2018,19288
+588,Indiana,85+ years,2019,19008
+589,Indiana,85+ years,2020,22635
+590,Indiana,85+ years,2021,19995
+591,Indiana,< 1 year,2018,556
+592,Indiana,< 1 year,2019,525
+593,Indiana,< 1 year,2020,527
+594,Indiana,< 1 year,2021,537
+595,Iowa,15-24 years,2018,244
+596,Iowa,15-24 years,2019,253
+597,Iowa,15-24 years,2020,297
+598,Iowa,15-24 years,2021,254
+599,Iowa,25-34 years,2018,410
+600,Iowa,25-34 years,2019,428
+601,Iowa,25-34 years,2020,509
+602,Iowa,25-34 years,2021,497
+603,Iowa,35-44 years,2018,589
+604,Iowa,35-44 years,2019,638
+605,Iowa,35-44 years,2020,790
+606,Iowa,35-44 years,2021,885
+607,Iowa,45-54 years,2018,1375
+608,Iowa,45-54 years,2019,1376
+609,Iowa,45-54 years,2020,1573
+610,Iowa,45-54 years,2021,1650
+611,Iowa,5-14 years,2018,10
+612,Iowa,5-14 years,2019,10
+613,Iowa,5-14 years,2020,10
+614,Iowa,55-64 years,2018,3462
+615,Iowa,55-64 years,2019,3682
+616,Iowa,55-64 years,2020,4040
+617,Iowa,55-64 years,2021,4219
+618,Iowa,65-74 years,2018,5421
+619,Iowa,65-74 years,2019,5574
+620,Iowa,65-74 years,2020,6739
+621,Iowa,65-74 years,2021,6905
+622,Iowa,75-84 years,2018,7263
+623,Iowa,75-84 years,2019,7473
+624,Iowa,75-84 years,2020,8730
+625,Iowa,75-84 years,2021,8483
+626,Iowa,85+ years,2018,11319
+627,Iowa,85+ years,2019,11162
+628,Iowa,85+ years,2020,13042
+629,Iowa,85+ years,2021,11080
+630,Iowa,< 1 year,2018,191
+631,Iowa,< 1 year,2019,180
+632,Iowa,< 1 year,2020,126
+633,Iowa,< 1 year,2021,132
+634,Kansas,15-24 years,2018,330
+635,Kansas,15-24 years,2019,286
+636,Kansas,15-24 years,2020,363
+637,Kansas,15-24 years,2021,392
+638,Kansas,25-34 years,2018,485
+639,Kansas,25-34 years,2019,495
+640,Kansas,25-34 years,2020,579
+641,Kansas,25-34 years,2021,643
+642,Kansas,35-44 years,2018,675
+643,Kansas,35-44 years,2019,692
+644,Kansas,35-44 years,2020,839
+645,Kansas,35-44 years,2021,1079
+646,Kansas,45-54 years,2018,1321
+647,Kansas,45-54 years,2019,1267
+648,Kansas,45-54 years,2020,1546
+649,Kansas,45-54 years,2021,1732
+650,Kansas,5-14 years,2021,21
+651,Kansas,55-64 years,2018,3523
+652,Kansas,55-64 years,2019,3566
+653,Kansas,55-64 years,2020,3926
+654,Kansas,55-64 years,2021,4164
+655,Kansas,65-74 years,2018,5072
+656,Kansas,65-74 years,2019,5232
+657,Kansas,65-74 years,2020,6192
+658,Kansas,65-74 years,2021,6699
+659,Kansas,75-84 years,2018,6425
+660,Kansas,75-84 years,2019,6594
+661,Kansas,75-84 years,2020,7722
+662,Kansas,75-84 years,2021,7618
+663,Kansas,85+ years,2018,9378
+664,Kansas,85+ years,2019,9254
+665,Kansas,85+ years,2020,10570
+666,Kansas,85+ years,2021,9408
+667,Kansas,< 1 year,2018,236
+668,Kansas,< 1 year,2019,201
+669,Kansas,< 1 year,2020,236
+670,Kansas,< 1 year,2021,193
+671,Kentucky,1-4 years,2018,10
+672,Kentucky,15-24 years,2018,506
+673,Kentucky,15-24 years,2019,450
+674,Kentucky,15-24 years,2020,640
+675,Kentucky,15-24 years,2021,679
+676,Kentucky,25-34 years,2018,1045
+677,Kentucky,25-34 years,2019,995
+678,Kentucky,25-34 years,2020,1340
+679,Kentucky,25-34 years,2021,1466
+680,Kentucky,35-44 years,2018,1635
+681,Kentucky,35-44 years,2019,1648
+682,Kentucky,35-44 years,2020,2170
+683,Kentucky,35-44 years,2021,2500
+684,Kentucky,45-54 years,2018,3383
+685,Kentucky,45-54 years,2019,3316
+686,Kentucky,45-54 years,2020,3732
+687,Kentucky,45-54 years,2021,4452
+688,Kentucky,5-14 years,2018,10
+689,Kentucky,5-14 years,2019,26
+690,Kentucky,5-14 years,2020,60
+691,Kentucky,5-14 years,2021,53
+692,Kentucky,55-64 years,2018,7315
+693,Kentucky,55-64 years,2019,7436
+694,Kentucky,55-64 years,2020,8368
+695,Kentucky,55-64 years,2021,9422
+696,Kentucky,65-74 years,2018,10473
+697,Kentucky,65-74 years,2019,10500
+698,Kentucky,65-74 years,2020,12071
+699,Kentucky,65-74 years,2021,13836
+700,Kentucky,75-84 years,2018,11894
+701,Kentucky,75-84 years,2019,12161
+702,Kentucky,75-84 years,2020,13661
+703,Kentucky,75-84 years,2021,14577
+704,Kentucky,85+ years,2018,11999
+705,Kentucky,85+ years,2019,12063
+706,Kentucky,85+ years,2020,13408
+707,Kentucky,85+ years,2021,12878
+708,Kentucky,< 1 year,2018,315
+709,Kentucky,< 1 year,2019,266
+710,Kentucky,< 1 year,2020,327
+711,Kentucky,< 1 year,2021,325
+712,Louisiana,1-4 years,2018,30
+713,Louisiana,1-4 years,2019,10
+714,Louisiana,1-4 years,2020,10
+715,Louisiana,1-4 years,2021,61
+716,Louisiana,15-24 years,2018,597
+717,Louisiana,15-24 years,2019,608
+718,Louisiana,15-24 years,2020,787
+719,Louisiana,15-24 years,2021,907
+720,Louisiana,25-34 years,2018,1182
+721,Louisiana,25-34 years,2019,1121
+722,Louisiana,25-34 years,2020,1543
+723,Louisiana,25-34 years,2021,1756
+724,Louisiana,35-44 years,2018,1651
+725,Louisiana,35-44 years,2019,1733
+726,Louisiana,35-44 years,2020,2258
+727,Louisiana,35-44 years,2021,2758
+728,Louisiana,45-54 years,2018,3059
+729,Louisiana,45-54 years,2019,2995
+730,Louisiana,45-54 years,2020,3641
+731,Louisiana,45-54 years,2021,4183
+732,Louisiana,5-14 years,2018,80
+733,Louisiana,5-14 years,2019,53
+734,Louisiana,5-14 years,2020,94
+735,Louisiana,5-14 years,2021,116
+736,Louisiana,55-64 years,2018,7179
+737,Louisiana,55-64 years,2019,7173
+738,Louisiana,55-64 years,2020,8535
+739,Louisiana,55-64 years,2021,9126
+740,Louisiana,65-74 years,2018,9725
+741,Louisiana,65-74 years,2019,9664
+742,Louisiana,65-74 years,2020,12331
+743,Louisiana,65-74 years,2021,12828
+744,Louisiana,75-84 years,2018,10732
+745,Louisiana,75-84 years,2019,10761
+746,Louisiana,75-84 years,2020,13495
+747,Louisiana,75-84 years,2021,13067
+748,Louisiana,85+ years,2018,11266
+749,Louisiana,85+ years,2019,11224
+750,Louisiana,85+ years,2020,13527
+751,Louisiana,85+ years,2021,12248
+752,Louisiana,< 1 year,2018,454
+753,Louisiana,< 1 year,2019,468
+754,Louisiana,< 1 year,2020,430
+755,Louisiana,< 1 year,2021,416
+756,Maine,15-24 years,2018,36
+757,Maine,15-24 years,2019,45
+758,Maine,15-24 years,2020,57
+759,Maine,15-24 years,2021,46
+760,Maine,25-34 years,2018,223
+761,Maine,25-34 years,2019,248
+762,Maine,25-34 years,2020,252
+763,Maine,25-34 years,2021,308
+764,Maine,35-44 years,2018,324
+765,Maine,35-44 years,2019,364
+766,Maine,35-44 years,2020,415
+767,Maine,35-44 years,2021,510
+768,Maine,45-54 years,2018,720
+769,Maine,45-54 years,2019,718
+770,Maine,45-54 years,2020,762
+771,Maine,45-54 years,2021,886
+772,Maine,55-64 years,2018,1746
+773,Maine,55-64 years,2019,1794
+774,Maine,55-64 years,2020,1892
+775,Maine,55-64 years,2021,2203
+776,Maine,65-74 years,2018,2782
+777,Maine,65-74 years,2019,2902
+778,Maine,65-74 years,2020,3084
+779,Maine,65-74 years,2021,3481
+780,Maine,75-84 years,2018,3764
+781,Maine,75-84 years,2019,3871
+782,Maine,75-84 years,2020,3979
+783,Maine,75-84 years,2021,4434
+784,Maine,85+ years,2018,4971
+785,Maine,85+ years,2019,4982
+786,Maine,85+ years,2020,5152
+787,Maine,85+ years,2021,5247
+788,Maine,< 1 year,2018,10
+789,Maine,< 1 year,2019,10
+790,Maryland,1-4 years,2018,12
+791,Maryland,1-4 years,2020,12
+792,Maryland,1-4 years,2021,12
+793,Maryland,15-24 years,2018,561
+794,Maryland,15-24 years,2019,601
+795,Maryland,15-24 years,2020,667
+796,Maryland,15-24 years,2021,648
+797,Maryland,25-34 years,2018,1330
+798,Maryland,25-34 years,2019,1371
+799,Maryland,25-34 years,2020,1591
+800,Maryland,25-34 years,2021,1517
+801,Maryland,35-44 years,2018,1615
+802,Maryland,35-44 years,2019,1661
+803,Maryland,35-44 years,2020,2089
+804,Maryland,35-44 years,2021,2197
+805,Maryland,45-54 years,2018,3291
+806,Maryland,45-54 years,2019,3076
+807,Maryland,45-54 years,2020,3560
+808,Maryland,45-54 years,2021,3574
+809,Maryland,5-14 years,2018,20
+810,Maryland,5-14 years,2019,22
+811,Maryland,5-14 years,2020,11
+812,Maryland,5-14 years,2021,53
+813,Maryland,55-64 years,2018,6816
+814,Maryland,55-64 years,2019,6923
+815,Maryland,55-64 years,2020,8127
+816,Maryland,55-64 years,2021,8146
+817,Maryland,65-74 years,2018,9287
+818,Maryland,65-74 years,2019,9680
+819,Maryland,65-74 years,2020,11653
+820,Maryland,65-74 years,2021,11692
+821,Maryland,75-84 years,2018,11554
+822,Maryland,75-84 years,2019,11641
+823,Maryland,75-84 years,2020,13969
+824,Maryland,75-84 years,2021,13620
+825,Maryland,85+ years,2018,15540
+826,Maryland,85+ years,2019,15280
+827,Maryland,85+ years,2020,17870
+828,Maryland,85+ years,2021,16138
+829,Maryland,< 1 year,2018,432
+830,Maryland,< 1 year,2019,413
+831,Maryland,< 1 year,2020,391
+832,Maryland,< 1 year,2021,415
+833,Massachusetts,15-24 years,2018,415
+834,Massachusetts,15-24 years,2019,390
+835,Massachusetts,15-24 years,2020,436
+836,Massachusetts,15-24 years,2021,431
+837,Massachusetts,25-34 years,2018,1296
+838,Massachusetts,25-34 years,2019,1168
+839,Massachusetts,25-34 years,2020,1245
+840,Massachusetts,25-34 years,2021,1226
+841,Massachusetts,35-44 years,2018,1452
+842,Massachusetts,35-44 years,2019,1471
+843,Massachusetts,35-44 years,2020,1771
+844,Massachusetts,35-44 years,2021,1857
+845,Massachusetts,45-54 years,2018,2858
+846,Massachusetts,45-54 years,2019,2876
+847,Massachusetts,45-54 years,2020,3084
+848,Massachusetts,45-54 years,2021,3150
+849,Massachusetts,5-14 years,2019,10
+850,Massachusetts,55-64 years,2018,6490
+851,Massachusetts,55-64 years,2019,6538
+852,Massachusetts,55-64 years,2020,7269
+853,Massachusetts,55-64 years,2021,7393
+854,Massachusetts,65-74 years,2018,9914
+855,Massachusetts,65-74 years,2019,9959
+856,Massachusetts,65-74 years,2020,11936
+857,Massachusetts,65-74 years,2021,11761
+858,Massachusetts,75-84 years,2018,13801
+859,Massachusetts,75-84 years,2019,13570
+860,Massachusetts,75-84 years,2020,16375
+861,Massachusetts,75-84 years,2021,15309
+862,Massachusetts,85+ years,2018,22525
+863,Massachusetts,85+ years,2019,22298
+864,Massachusetts,85+ years,2020,25776
+865,Massachusetts,85+ years,2021,21652
+866,Massachusetts,< 1 year,2018,290
+867,Massachusetts,< 1 year,2019,254
+868,Massachusetts,< 1 year,2020,261
+869,Massachusetts,< 1 year,2021,228
+870,Michigan,1-4 years,2018,114
+871,Michigan,1-4 years,2019,70
+872,Michigan,1-4 years,2020,43
+873,Michigan,1-4 years,2021,64
+874,Michigan,15-24 years,2018,943
+875,Michigan,15-24 years,2019,829
+876,Michigan,15-24 years,2020,1046
+877,Michigan,15-24 years,2021,1083
+878,Michigan,25-34 years,2018,1973
+879,Michigan,25-34 years,2019,1976
+880,Michigan,25-34 years,2020,2265
+881,Michigan,25-34 years,2021,2453
+882,Michigan,35-44 years,2018,2666
+883,Michigan,35-44 years,2019,2508
+884,Michigan,35-44 years,2020,3129
+885,Michigan,35-44 years,2021,3761
+886,Michigan,45-54 years,2018,5644
+887,Michigan,45-54 years,2019,5129
+888,Michigan,45-54 years,2020,6288
+889,Michigan,45-54 years,2021,6846
+890,Michigan,5-14 years,2018,204
+891,Michigan,5-14 years,2019,190
+892,Michigan,5-14 years,2020,176
+893,Michigan,5-14 years,2021,165
+894,Michigan,55-64 years,2018,12989
+895,Michigan,55-64 years,2019,13025
+896,Michigan,55-64 years,2020,15061
+897,Michigan,55-64 years,2021,16090
+898,Michigan,65-74 years,2018,19001
+899,Michigan,65-74 years,2019,19691
+900,Michigan,65-74 years,2020,23868
+901,Michigan,65-74 years,2021,25421
+902,Michigan,75-84 years,2018,23445
+903,Michigan,75-84 years,2019,23742
+904,Michigan,75-84 years,2020,28704
+905,Michigan,75-84 years,2021,28367
+906,Michigan,85+ years,2018,31218
+907,Michigan,85+ years,2019,31188
+908,Michigan,85+ years,2020,35765
+909,Michigan,85+ years,2021,32815
+910,Michigan,< 1 year,2018,684
+911,Michigan,< 1 year,2019,690
+912,Michigan,< 1 year,2020,704
+913,Michigan,< 1 year,2021,656
+914,Minnesota,1-4 years,2019,10
+915,Minnesota,15-24 years,2018,388
+916,Minnesota,15-24 years,2019,439
+917,Minnesota,15-24 years,2020,481
+918,Minnesota,15-24 years,2021,556
+919,Minnesota,25-34 years,2018,718
+920,Minnesota,25-34 years,2019,744
+921,Minnesota,25-34 years,2020,965
+922,Minnesota,25-34 years,2021,1085
+923,Minnesota,35-44 years,2018,917
+924,Minnesota,35-44 years,2019,1050
+925,Minnesota,35-44 years,2020,1275
+926,Minnesota,35-44 years,2021,1596
+927,Minnesota,45-54 years,2018,2090
+928,Minnesota,45-54 years,2019,2034
+929,Minnesota,45-54 years,2020,2336
+930,Minnesota,45-54 years,2021,2506
+931,Minnesota,5-14 years,2018,25
+932,Minnesota,5-14 years,2019,32
+933,Minnesota,5-14 years,2021,51
+934,Minnesota,55-64 years,2018,5080
+935,Minnesota,55-64 years,2019,5097
+936,Minnesota,55-64 years,2020,5668
+937,Minnesota,55-64 years,2021,6163
+938,Minnesota,65-74 years,2018,7593
+939,Minnesota,65-74 years,2019,7942
+940,Minnesota,65-74 years,2020,9205
+941,Minnesota,65-74 years,2021,9777
+942,Minnesota,75-84 years,2018,10576
+943,Minnesota,75-84 years,2019,10916
+944,Minnesota,75-84 years,2020,12960
+945,Minnesota,75-84 years,2021,12603
+946,Minnesota,85+ years,2018,16896
+947,Minnesota,85+ years,2019,16841
+948,Minnesota,85+ years,2020,19070
+949,Minnesota,85+ years,2021,16885
+950,Minnesota,< 1 year,2018,342
+951,Minnesota,< 1 year,2019,302
+952,Minnesota,< 1 year,2020,264
+953,Minnesota,< 1 year,2021,309
+954,Mississippi,1-4 years,2018,23
+955,Mississippi,1-4 years,2019,11
+956,Mississippi,15-24 years,2018,407
+957,Mississippi,15-24 years,2019,437
+958,Mississippi,15-24 years,2020,504
+959,Mississippi,15-24 years,2021,636
+960,Mississippi,25-34 years,2018,717
+961,Mississippi,25-34 years,2019,725
+962,Mississippi,25-34 years,2020,986
+963,Mississippi,25-34 years,2021,1077
+964,Mississippi,35-44 years,2018,1093
+965,Mississippi,35-44 years,2019,1187
+966,Mississippi,35-44 years,2020,1551
+967,Mississippi,35-44 years,2021,1814
+968,Mississippi,45-54 years,2018,2287
+969,Mississippi,45-54 years,2019,2191
+970,Mississippi,45-54 years,2020,2770
+971,Mississippi,45-54 years,2021,3005
+972,Mississippi,5-14 years,2018,12
+973,Mississippi,5-14 years,2019,43
+974,Mississippi,5-14 years,2020,69
+975,Mississippi,5-14 years,2021,48
+976,Mississippi,55-64 years,2018,5177
+977,Mississippi,55-64 years,2019,5229
+978,Mississippi,55-64 years,2020,6229
+979,Mississippi,55-64 years,2021,6679
+980,Mississippi,65-74 years,2018,6974
+981,Mississippi,65-74 years,2019,7169
+982,Mississippi,65-74 years,2020,9017
+983,Mississippi,65-74 years,2021,9565
+984,Mississippi,75-84 years,2018,7632
+985,Mississippi,75-84 years,2019,7978
+986,Mississippi,75-84 years,2020,9591
+987,Mississippi,75-84 years,2021,9537
+988,Mississippi,85+ years,2018,7549
+989,Mississippi,85+ years,2019,7566
+990,Mississippi,85+ years,2020,9079
+991,Mississippi,85+ years,2021,8268
+992,Mississippi,< 1 year,2018,306
+993,Mississippi,< 1 year,2019,322
+994,Mississippi,< 1 year,2020,293
+995,Mississippi,< 1 year,2021,327
+996,Missouri,1-4 years,2018,31
+997,Missouri,1-4 years,2019,12
+998,Missouri,1-4 years,2020,47
+999,Missouri,1-4 years,2021,52
+1000,Missouri,15-24 years,2018,826
+1001,Missouri,15-24 years,2019,774
+1002,Missouri,15-24 years,2020,874
+1003,Missouri,15-24 years,2021,867
+1004,Missouri,25-34 years,2018,1438
+1005,Missouri,25-34 years,2019,1347
+1006,Missouri,25-34 years,2020,1717
+1007,Missouri,25-34 years,2021,1829
+1008,Missouri,35-44 years,2018,1872
+1009,Missouri,35-44 years,2019,1897
+1010,Missouri,35-44 years,2020,2284
+1011,Missouri,35-44 years,2021,2642
+1012,Missouri,45-54 years,2018,3663
+1013,Missouri,45-54 years,2019,3464
+1014,Missouri,45-54 years,2020,3890
+1015,Missouri,45-54 years,2021,4416
+1016,Missouri,5-14 years,2018,78
+1017,Missouri,5-14 years,2019,76
+1018,Missouri,5-14 years,2020,90
+1019,Missouri,5-14 years,2021,93
+1020,Missouri,55-64 years,2018,8714
+1021,Missouri,55-64 years,2019,8631
+1022,Missouri,55-64 years,2020,9811
+1023,Missouri,55-64 years,2021,10751
+1024,Missouri,65-74 years,2018,12167
+1025,Missouri,65-74 years,2019,12421
+1026,Missouri,65-74 years,2020,14988
+1027,Missouri,65-74 years,2021,15776
+1028,Missouri,75-84 years,2018,15279
+1029,Missouri,75-84 years,2019,15201
+1030,Missouri,75-84 years,2020,18338
+1031,Missouri,75-84 years,2021,17713
+1032,Missouri,85+ years,2018,18500
+1033,Missouri,85+ years,2019,18028
+1034,Missouri,85+ years,2020,21372
+1035,Missouri,85+ years,2021,19223
+1036,Missouri,< 1 year,2018,460
+1037,Missouri,< 1 year,2019,433
+1038,Missouri,< 1 year,2020,392
+1039,Missouri,< 1 year,2021,394
+1040,Montana,15-24 years,2018,104
+1041,Montana,15-24 years,2019,101
+1042,Montana,15-24 years,2020,118
+1043,Montana,15-24 years,2021,178
+1044,Montana,25-34 years,2018,194
+1045,Montana,25-34 years,2019,188
+1046,Montana,25-34 years,2020,239
+1047,Montana,25-34 years,2021,277
+1048,Montana,35-44 years,2018,247
+1049,Montana,35-44 years,2019,298
+1050,Montana,35-44 years,2020,333
+1051,Montana,35-44 years,2021,434
+1052,Montana,45-54 years,2018,468
+1053,Montana,45-54 years,2019,495
+1054,Montana,45-54 years,2020,589
+1055,Montana,45-54 years,2021,685
+1056,Montana,55-64 years,2018,1267
+1057,Montana,55-64 years,2019,1235
+1058,Montana,55-64 years,2020,1451
+1059,Montana,55-64 years,2021,1660
+1060,Montana,65-74 years,2018,1950
+1061,Montana,65-74 years,2019,2071
+1062,Montana,65-74 years,2020,2471
+1063,Montana,65-74 years,2021,2682
+1064,Montana,75-84 years,2018,2475
+1065,Montana,75-84 years,2019,2636
+1066,Montana,75-84 years,2020,3031
+1067,Montana,75-84 years,2021,3219
+1068,Montana,85+ years,2018,3170
+1069,Montana,85+ years,2019,3264
+1070,Montana,85+ years,2020,3671
+1071,Montana,85+ years,2021,3469
+1072,Nebraska,15-24 years,2018,118
+1073,Nebraska,15-24 years,2019,146
+1074,Nebraska,15-24 years,2020,186
+1075,Nebraska,15-24 years,2021,201
+1076,Nebraska,25-34 years,2018,244
+1077,Nebraska,25-34 years,2019,256
+1078,Nebraska,25-34 years,2020,302
+1079,Nebraska,25-34 years,2021,326
+1080,Nebraska,35-44 years,2018,398
+1081,Nebraska,35-44 years,2019,384
+1082,Nebraska,35-44 years,2020,460
+1083,Nebraska,35-44 years,2021,516
+1084,Nebraska,45-54 years,2018,826
+1085,Nebraska,45-54 years,2019,838
+1086,Nebraska,45-54 years,2020,873
+1087,Nebraska,45-54 years,2021,962
+1088,Nebraska,5-14 years,2018,10
+1089,Nebraska,55-64 years,2018,1959
+1090,Nebraska,55-64 years,2019,1960
+1091,Nebraska,55-64 years,2020,2236
+1092,Nebraska,55-64 years,2021,2336
+1093,Nebraska,65-74 years,2018,3064
+1094,Nebraska,65-74 years,2019,3017
+1095,Nebraska,65-74 years,2020,3688
+1096,Nebraska,65-74 years,2021,3772
+1097,Nebraska,75-84 years,2018,3899
+1098,Nebraska,75-84 years,2019,4136
+1099,Nebraska,75-84 years,2020,4792
+1100,Nebraska,75-84 years,2021,4537
+1101,Nebraska,85+ years,2018,6145
+1102,Nebraska,85+ years,2019,6035
+1103,Nebraska,85+ years,2020,6801
+1104,Nebraska,85+ years,2021,6071
+1105,Nebraska,< 1 year,2018,135
+1106,Nebraska,< 1 year,2019,91
+1107,Nebraska,< 1 year,2020,105
+1108,Nebraska,< 1 year,2021,94
+1109,Nevada,15-24 years,2018,276
+1110,Nevada,15-24 years,2019,264
+1111,Nevada,15-24 years,2020,370
+1112,Nevada,15-24 years,2021,383
+1113,Nevada,25-34 years,2018,530
+1114,Nevada,25-34 years,2019,504
+1115,Nevada,25-34 years,2020,664
+1116,Nevada,25-34 years,2021,858
+1117,Nevada,35-44 years,2018,835
+1118,Nevada,35-44 years,2019,765
+1119,Nevada,35-44 years,2020,1006
+1120,Nevada,35-44 years,2021,1268
+1121,Nevada,45-54 years,2018,1639
+1122,Nevada,45-54 years,2019,1662
+1123,Nevada,45-54 years,2020,2054
+1124,Nevada,45-54 years,2021,2362
+1125,Nevada,5-14 years,2021,11
+1126,Nevada,55-64 years,2018,3622
+1127,Nevada,55-64 years,2019,3648
+1128,Nevada,55-64 years,2020,4309
+1129,Nevada,55-64 years,2021,4771
+1130,Nevada,65-74 years,2018,5591
+1131,Nevada,65-74 years,2019,5920
+1132,Nevada,65-74 years,2020,7062
+1133,Nevada,65-74 years,2021,7734
+1134,Nevada,75-84 years,2018,6227
+1135,Nevada,75-84 years,2019,6639
+1136,Nevada,75-84 years,2020,8014
+1137,Nevada,75-84 years,2021,8598
+1138,Nevada,85+ years,2018,5688
+1139,Nevada,85+ years,2019,5897
+1140,Nevada,85+ years,2020,6901
+1141,Nevada,85+ years,2021,6658
+1142,Nevada,< 1 year,2018,217
+1143,Nevada,< 1 year,2019,194
+1144,Nevada,< 1 year,2020,141
+1145,Nevada,< 1 year,2021,174
+1146,New Hampshire,15-24 years,2018,78
+1147,New Hampshire,15-24 years,2019,45
+1148,New Hampshire,15-24 years,2020,45
+1149,New Hampshire,15-24 years,2021,20
+1150,New Hampshire,25-34 years,2018,259
+1151,New Hampshire,25-34 years,2019,261
+1152,New Hampshire,25-34 years,2020,245
+1153,New Hampshire,25-34 years,2021,298
+1154,New Hampshire,35-44 years,2018,323
+1155,New Hampshire,35-44 years,2019,327
+1156,New Hampshire,35-44 years,2020,334
+1157,New Hampshire,35-44 years,2021,377
+1158,New Hampshire,45-54 years,2018,719
+1159,New Hampshire,45-54 years,2019,629
+1160,New Hampshire,45-54 years,2020,663
+1161,New Hampshire,45-54 years,2021,710
+1162,New Hampshire,55-64 years,2018,1587
+1163,New Hampshire,55-64 years,2019,1568
+1164,New Hampshire,55-64 years,2020,1535
+1165,New Hampshire,55-64 years,2021,1729
+1166,New Hampshire,65-74 years,2018,2252
+1167,New Hampshire,65-74 years,2019,2410
+1168,New Hampshire,65-74 years,2020,2602
+1169,New Hampshire,65-74 years,2021,2905
+1170,New Hampshire,75-84 years,2018,3031
+1171,New Hampshire,75-84 years,2019,3104
+1172,New Hampshire,75-84 years,2020,3387
+1173,New Hampshire,75-84 years,2021,3596
+1174,New Hampshire,85+ years,2018,4419
+1175,New Hampshire,85+ years,2019,4268
+1176,New Hampshire,85+ years,2020,4761
+1177,New Hampshire,85+ years,2021,4412
+1178,New Jersey,1-4 years,2018,11
+1179,New Jersey,1-4 years,2020,13
+1180,New Jersey,1-4 years,2021,10
+1181,New Jersey,15-24 years,2018,638
+1182,New Jersey,15-24 years,2019,553
+1183,New Jersey,15-24 years,2020,609
+1184,New Jersey,15-24 years,2021,631
+1185,New Jersey,25-34 years,2018,1610
+1186,New Jersey,25-34 years,2019,1529
+1187,New Jersey,25-34 years,2020,1735
+1188,New Jersey,25-34 years,2021,1656
+1189,New Jersey,35-44 years,2018,2021
+1190,New Jersey,35-44 years,2019,1976
+1191,New Jersey,35-44 years,2020,2543
+1192,New Jersey,35-44 years,2021,2600
+1193,New Jersey,45-54 years,2018,4156
+1194,New Jersey,45-54 years,2019,3978
+1195,New Jersey,45-54 years,2020,5142
+1196,New Jersey,45-54 years,2021,4831
+1197,New Jersey,5-14 years,2018,112
+1198,New Jersey,5-14 years,2019,62
+1199,New Jersey,5-14 years,2020,20
+1200,New Jersey,5-14 years,2021,60
+1201,New Jersey,55-64 years,2018,8828
+1202,New Jersey,55-64 years,2019,8771
+1203,New Jersey,55-64 years,2020,11796
+1204,New Jersey,55-64 years,2021,10564
+1205,New Jersey,65-74 years,2018,12881
+1206,New Jersey,65-74 years,2019,13008
+1207,New Jersey,65-74 years,2020,17495
+1208,New Jersey,65-74 years,2021,15905
+1209,New Jersey,75-84 years,2018,17531
+1210,New Jersey,75-84 years,2019,17519
+1211,New Jersey,75-84 years,2020,23068
+1212,New Jersey,75-84 years,2021,20034
+1213,New Jersey,85+ years,2018,27506
+1214,New Jersey,85+ years,2019,27068
+1215,New Jersey,85+ years,2020,33075
+1216,New Jersey,85+ years,2021,27273
+1217,New Jersey,< 1 year,2018,390
+1218,New Jersey,< 1 year,2019,428
+1219,New Jersey,< 1 year,2020,393
+1220,New Jersey,< 1 year,2021,355
+1221,New Mexico,15-24 years,2018,270
+1222,New Mexico,15-24 years,2019,305
+1223,New Mexico,15-24 years,2020,319
+1224,New Mexico,15-24 years,2021,390
+1225,New Mexico,25-34 years,2018,613
+1226,New Mexico,25-34 years,2019,660
+1227,New Mexico,25-34 years,2020,855
+1228,New Mexico,25-34 years,2021,1063
+1229,New Mexico,35-44 years,2018,772
+1230,New Mexico,35-44 years,2019,870
+1231,New Mexico,35-44 years,2020,1140
+1232,New Mexico,35-44 years,2021,1461
+1233,New Mexico,45-54 years,2018,1282
+1234,New Mexico,45-54 years,2019,1322
+1235,New Mexico,45-54 years,2020,1622
+1236,New Mexico,45-54 years,2021,1916
+1237,New Mexico,5-14 years,2018,11
+1238,New Mexico,5-14 years,2021,10
+1239,New Mexico,55-64 years,2018,2533
+1240,New Mexico,55-64 years,2019,2620
+1241,New Mexico,55-64 years,2020,3226
+1242,New Mexico,55-64 years,2021,3646
+1243,New Mexico,65-74 years,2018,3823
+1244,New Mexico,65-74 years,2019,3802
+1245,New Mexico,65-74 years,2020,4804
+1246,New Mexico,65-74 years,2021,5207
+1247,New Mexico,75-84 years,2018,4279
+1248,New Mexico,75-84 years,2019,4531
+1249,New Mexico,75-84 years,2020,5556
+1250,New Mexico,75-84 years,2021,5587
+1251,New Mexico,85+ years,2018,5221
+1252,New Mexico,85+ years,2019,5201
+1253,New Mexico,85+ years,2020,6098
+1254,New Mexico,85+ years,2021,5829
+1255,New Mexico,< 1 year,2018,104
+1256,New Mexico,< 1 year,2019,94
+1257,New Mexico,< 1 year,2020,53
+1258,New Mexico,< 1 year,2021,60
+1259,New York,1-4 years,2018,152
+1260,New York,1-4 years,2019,129
+1261,New York,1-4 years,2020,88
+1262,New York,1-4 years,2021,139
+1263,New York,15-24 years,2018,1160
+1264,New York,15-24 years,2019,1172
+1265,New York,15-24 years,2020,1440
+1266,New York,15-24 years,2021,1320
+1267,New York,25-34 years,2018,2686
+1268,New York,25-34 years,2019,2732
+1269,New York,25-34 years,2020,3550
+1270,New York,25-34 years,2021,3555
+1271,New York,35-44 years,2018,3634
+1272,New York,35-44 years,2019,3738
+1273,New York,35-44 years,2020,5402
+1274,New York,35-44 years,2021,5347
+1275,New York,45-54 years,2018,8253
+1276,New York,45-54 years,2019,7910
+1277,New York,45-54 years,2020,10618
+1278,New York,45-54 years,2021,9815
+1279,New York,5-14 years,2018,259
+1280,New York,5-14 years,2019,264
+1281,New York,5-14 years,2020,241
+1282,New York,5-14 years,2021,241
+1283,New York,55-64 years,2018,18658
+1284,New York,55-64 years,2019,18579
+1285,New York,55-64 years,2020,25066
+1286,New York,55-64 years,2021,22859
+1287,New York,65-74 years,2018,27773
+1288,New York,65-74 years,2019,28413
+1289,New York,65-74 years,2020,38751
+1290,New York,65-74 years,2021,35388
+1291,New York,75-84 years,2018,36845
+1292,New York,75-84 years,2019,36862
+1293,New York,75-84 years,2020,48588
+1294,New York,75-84 years,2021,43188
+1295,New York,85+ years,2018,56726
+1296,New York,85+ years,2019,55559
+1297,New York,85+ years,2020,68698
+1298,New York,85+ years,2021,58623
+1299,New York,< 1 year,2018,974
+1300,New York,< 1 year,2019,955
+1301,New York,< 1 year,2020,853
+1302,New York,< 1 year,2021,868
+1303,New York,Not Stated,2018,10
+1304,North Carolina,1-4 years,2018,80
+1305,North Carolina,1-4 years,2019,113
+1306,North Carolina,1-4 years,2020,50
+1307,North Carolina,1-4 years,2021,64
+1308,North Carolina,15-24 years,2018,1063
+1309,North Carolina,15-24 years,2019,1093
+1310,North Carolina,15-24 years,2020,1370
+1311,North Carolina,15-24 years,2021,1501
+1312,North Carolina,25-34 years,2018,2049
+1313,North Carolina,25-34 years,2019,2143
+1314,North Carolina,25-34 years,2020,2667
+1315,North Carolina,25-34 years,2021,3171
+1316,North Carolina,35-44 years,2018,2785
+1317,North Carolina,35-44 years,2019,2827
+1318,North Carolina,35-44 years,2020,3553
+1319,North Carolina,35-44 years,2021,4417
+1320,North Carolina,45-54 years,2018,5775
+1321,North Carolina,45-54 years,2019,5677
+1322,North Carolina,45-54 years,2020,6634
+1323,North Carolina,45-54 years,2021,7748
+1324,North Carolina,5-14 years,2018,188
+1325,North Carolina,5-14 years,2019,143
+1326,North Carolina,5-14 years,2020,184
+1327,North Carolina,5-14 years,2021,189
+1328,North Carolina,55-64 years,2018,13053
+1329,North Carolina,55-64 years,2019,13113
+1330,North Carolina,55-64 years,2020,14603
+1331,North Carolina,55-64 years,2021,16972
+1332,North Carolina,65-74 years,2018,19215
+1333,North Carolina,65-74 years,2019,19736
+1334,North Carolina,65-74 years,2020,22698
+1335,North Carolina,65-74 years,2021,25433
+1336,North Carolina,75-84 years,2018,23074
+1337,North Carolina,75-84 years,2019,23745
+1338,North Carolina,75-84 years,2020,27409
+1339,North Carolina,75-84 years,2021,28708
+1340,North Carolina,85+ years,2018,25765
+1341,North Carolina,85+ years,2019,26435
+1342,North Carolina,85+ years,2020,29420
+1343,North Carolina,85+ years,2021,29018
+1344,North Carolina,< 1 year,2018,797
+1345,North Carolina,< 1 year,2019,808
+1346,North Carolina,< 1 year,2020,800
+1347,North Carolina,< 1 year,2021,814
+1348,North Dakota,15-24 years,2020,22
+1349,North Dakota,15-24 years,2021,64
+1350,North Dakota,25-34 years,2018,112
+1351,North Dakota,25-34 years,2019,118
+1352,North Dakota,25-34 years,2020,189
+1353,North Dakota,25-34 years,2021,186
+1354,North Dakota,35-44 years,2018,184
+1355,North Dakota,35-44 years,2019,184
+1356,North Dakota,35-44 years,2020,235
+1357,North Dakota,35-44 years,2021,253
+1358,North Dakota,45-54 years,2018,299
+1359,North Dakota,45-54 years,2019,297
+1360,North Dakota,45-54 years,2020,357
+1361,North Dakota,45-54 years,2021,382
+1362,North Dakota,55-64 years,2018,743
+1363,North Dakota,55-64 years,2019,777
+1364,North Dakota,55-64 years,2020,865
+1365,North Dakota,55-64 years,2021,928
+1366,North Dakota,65-74 years,2018,1086
+1367,North Dakota,65-74 years,2019,1149
+1368,North Dakota,65-74 years,2020,1355
+1369,North Dakota,65-74 years,2021,1404
+1370,North Dakota,75-84 years,2018,1452
+1371,North Dakota,75-84 years,2019,1496
+1372,North Dakota,75-84 years,2020,1860
+1373,North Dakota,75-84 years,2021,1663
+1374,North Dakota,85+ years,2018,2393
+1375,North Dakota,85+ years,2019,2475
+1376,North Dakota,85+ years,2020,3017
+1377,North Dakota,85+ years,2021,2283
+1378,North Dakota,< 1 year,2019,10
+1379,Ohio,1-4 years,2018,160
+1380,Ohio,1-4 years,2019,114
+1381,Ohio,1-4 years,2020,114
+1382,Ohio,1-4 years,2021,144
+1383,Ohio,15-24 years,2018,1208
+1384,Ohio,15-24 years,2019,1140
+1385,Ohio,15-24 years,2020,1343
+1386,Ohio,15-24 years,2021,1333
+1387,Ohio,25-34 years,2018,2613
+1388,Ohio,25-34 years,2019,2659
+1389,Ohio,25-34 years,2020,3186
+1390,Ohio,25-34 years,2021,3339
+1391,Ohio,35-44 years,2018,3573
+1392,Ohio,35-44 years,2019,3644
+1393,Ohio,35-44 years,2020,4226
+1394,Ohio,35-44 years,2021,5039
+1395,Ohio,45-54 years,2018,7030
+1396,Ohio,45-54 years,2019,6741
+1397,Ohio,45-54 years,2020,7694
+1398,Ohio,45-54 years,2021,8765
+1399,Ohio,5-14 years,2018,184
+1400,Ohio,5-14 years,2019,212
+1401,Ohio,5-14 years,2020,210
+1402,Ohio,5-14 years,2021,225
+1403,Ohio,55-64 years,2018,16394
+1404,Ohio,55-64 years,2019,16584
+1405,Ohio,55-64 years,2020,18413
+1406,Ohio,55-64 years,2021,20597
+1407,Ohio,65-74 years,2018,23798
+1408,Ohio,65-74 years,2019,24292
+1409,Ohio,65-74 years,2020,28678
+1410,Ohio,65-74 years,2021,31801
+1411,Ohio,75-84 years,2018,29732
+1412,Ohio,75-84 years,2019,29958
+1413,Ohio,75-84 years,2020,35158
+1414,Ohio,75-84 years,2021,35295
+1415,Ohio,85+ years,2018,38617
+1416,Ohio,85+ years,2019,37416
+1417,Ohio,85+ years,2020,43789
+1418,Ohio,85+ years,2021,40169
+1419,Ohio,< 1 year,2018,938
+1420,Ohio,< 1 year,2019,930
+1421,Ohio,< 1 year,2020,864
+1422,Ohio,< 1 year,2021,913
+1423,Oklahoma,1-4 years,2018,21
+1424,Oklahoma,15-24 years,2018,413
+1425,Oklahoma,15-24 years,2019,421
+1426,Oklahoma,15-24 years,2020,488
+1427,Oklahoma,15-24 years,2021,569
+1428,Oklahoma,25-34 years,2018,808
+1429,Oklahoma,25-34 years,2019,781
+1430,Oklahoma,25-34 years,2020,934
+1431,Oklahoma,25-34 years,2021,1098
+1432,Oklahoma,35-44 years,2018,1230
+1433,Oklahoma,35-44 years,2019,1318
+1434,Oklahoma,35-44 years,2020,1534
+1435,Oklahoma,35-44 years,2021,1956
+1436,Oklahoma,45-54 years,2018,2626
+1437,Oklahoma,45-54 years,2019,2508
+1438,Oklahoma,45-54 years,2020,2852
+1439,Oklahoma,45-54 years,2021,3521
+1440,Oklahoma,5-14 years,2018,32
+1441,Oklahoma,5-14 years,2019,55
+1442,Oklahoma,5-14 years,2020,72
+1443,Oklahoma,5-14 years,2021,66
+1444,Oklahoma,55-64 years,2018,6138
+1445,Oklahoma,55-64 years,2019,6099
+1446,Oklahoma,55-64 years,2020,6789
+1447,Oklahoma,55-64 years,2021,7857
+1448,Oklahoma,65-74 years,2018,8601
+1449,Oklahoma,65-74 years,2019,8755
+1450,Oklahoma,65-74 years,2020,10583
+1451,Oklahoma,65-74 years,2021,11554
+1452,Oklahoma,75-84 years,2018,10120
+1453,Oklahoma,75-84 years,2019,10225
+1454,Oklahoma,75-84 years,2020,12044
+1455,Oklahoma,75-84 years,2021,12555
+1456,Oklahoma,85+ years,2018,10490
+1457,Oklahoma,85+ years,2019,10315
+1458,Oklahoma,85+ years,2020,12136
+1459,Oklahoma,85+ years,2021,11336
+1460,Oklahoma,< 1 year,2018,353
+1461,Oklahoma,< 1 year,2019,343
+1462,Oklahoma,< 1 year,2020,279
+1463,Oklahoma,< 1 year,2021,336
+1464,Oregon,15-24 years,2018,309
+1465,Oregon,15-24 years,2019,314
+1466,Oregon,15-24 years,2020,384
+1467,Oregon,15-24 years,2021,402
+1468,Oregon,25-34 years,2018,593
+1469,Oregon,25-34 years,2019,592
+1470,Oregon,25-34 years,2020,736
+1471,Oregon,25-34 years,2021,869
+1472,Oregon,35-44 years,2018,813
+1473,Oregon,35-44 years,2019,890
+1474,Oregon,35-44 years,2020,1022
+1475,Oregon,35-44 years,2021,1400
+1476,Oregon,45-54 years,2018,1802
+1477,Oregon,45-54 years,2019,1763
+1478,Oregon,45-54 years,2020,2009
+1479,Oregon,45-54 years,2021,2409
+1480,Oregon,5-14 years,2021,11
+1481,Oregon,55-64 years,2018,4488
+1482,Oregon,55-64 years,2019,4602
+1483,Oregon,55-64 years,2020,4820
+1484,Oregon,55-64 years,2021,5629
+1485,Oregon,65-74 years,2018,7253
+1486,Oregon,65-74 years,2019,7659
+1487,Oregon,65-74 years,2020,8337
+1488,Oregon,65-74 years,2021,9636
+1489,Oregon,75-84 years,2018,8829
+1490,Oregon,75-84 years,2019,9197
+1491,Oregon,75-84 years,2020,10109
+1492,Oregon,75-84 years,2021,11282
+1493,Oregon,85+ years,2018,11832
+1494,Oregon,85+ years,2019,12073
+1495,Oregon,85+ years,2020,12547
+1496,Oregon,85+ years,2021,13138
+1497,Oregon,< 1 year,2018,176
+1498,Oregon,< 1 year,2019,203
+1499,Oregon,< 1 year,2020,143
+1500,Oregon,< 1 year,2021,139
+1501,Pennsylvania,1-4 years,2018,97
+1502,Pennsylvania,1-4 years,2019,73
+1503,Pennsylvania,1-4 years,2020,121
+1504,Pennsylvania,1-4 years,2021,120
+1505,Pennsylvania,15-24 years,2018,1202
+1506,Pennsylvania,15-24 years,2019,1087
+1507,Pennsylvania,15-24 years,2020,1240
+1508,Pennsylvania,15-24 years,2021,1338
+1509,Pennsylvania,25-34 years,2018,2823
+1510,Pennsylvania,25-34 years,2019,2628
+1511,Pennsylvania,25-34 years,2020,3012
+1512,Pennsylvania,25-34 years,2021,3108
+1513,Pennsylvania,35-44 years,2018,3285
+1514,Pennsylvania,35-44 years,2019,3318
+1515,Pennsylvania,35-44 years,2020,3904
+1516,Pennsylvania,35-44 years,2021,4520
+1517,Pennsylvania,45-54 years,2018,6593
+1518,Pennsylvania,45-54 years,2019,6543
+1519,Pennsylvania,45-54 years,2020,7226
+1520,Pennsylvania,45-54 years,2021,8078
+1521,Pennsylvania,5-14 years,2018,201
+1522,Pennsylvania,5-14 years,2019,201
+1523,Pennsylvania,5-14 years,2020,173
+1524,Pennsylvania,5-14 years,2021,234
+1525,Pennsylvania,55-64 years,2018,15970
+1526,Pennsylvania,55-64 years,2019,15941
+1527,Pennsylvania,55-64 years,2020,17848
+1528,Pennsylvania,55-64 years,2021,19443
+1529,Pennsylvania,65-74 years,2018,23932
+1530,Pennsylvania,65-74 years,2019,24032
+1531,Pennsylvania,65-74 years,2020,29063
+1532,Pennsylvania,65-74 years,2021,31542
+1533,Pennsylvania,75-84 years,2018,31595
+1534,Pennsylvania,75-84 years,2019,32337
+1535,Pennsylvania,75-84 years,2020,37719
+1536,Pennsylvania,75-84 years,2021,37487
+1537,Pennsylvania,85+ years,2018,48143
+1538,Pennsylvania,85+ years,2019,46957
+1539,Pennsylvania,85+ years,2020,54475
+1540,Pennsylvania,85+ years,2021,48777
+1541,Pennsylvania,< 1 year,2018,805
+1542,Pennsylvania,< 1 year,2019,788
+1543,Pennsylvania,< 1 year,2020,726
+1544,Pennsylvania,< 1 year,2021,719
+1545,Rhode Island,15-24 years,2018,10
+1546,Rhode Island,15-24 years,2019,10
+1547,Rhode Island,15-24 years,2021,11
+1548,Rhode Island,25-34 years,2018,102
+1549,Rhode Island,25-34 years,2019,156
+1550,Rhode Island,25-34 years,2020,168
+1551,Rhode Island,25-34 years,2021,219
+1552,Rhode Island,35-44 years,2018,220
+1553,Rhode Island,35-44 years,2019,241
+1554,Rhode Island,35-44 years,2020,278
+1555,Rhode Island,35-44 years,2021,287
+1556,Rhode Island,45-54 years,2018,439
+1557,Rhode Island,45-54 years,2019,498
+1558,Rhode Island,45-54 years,2020,499
+1559,Rhode Island,45-54 years,2021,559
+1560,Rhode Island,55-64 years,2018,1133
+1561,Rhode Island,55-64 years,2019,1101
+1562,Rhode Island,55-64 years,2020,1351
+1563,Rhode Island,55-64 years,2021,1324
+1564,Rhode Island,65-74 years,2018,1761
+1565,Rhode Island,65-74 years,2019,1763
+1566,Rhode Island,65-74 years,2020,2002
+1567,Rhode Island,65-74 years,2021,2117
+1568,Rhode Island,75-84 years,2018,2235
+1569,Rhode Island,75-84 years,2019,2368
+1570,Rhode Island,75-84 years,2020,2738
+1571,Rhode Island,75-84 years,2021,2639
+1572,Rhode Island,85+ years,2018,4010
+1573,Rhode Island,85+ years,2019,3973
+1574,Rhode Island,85+ years,2020,4641
+1575,Rhode Island,85+ years,2021,3952
+1576,South Carolina,1-4 years,2018,21
+1577,South Carolina,1-4 years,2019,23
+1578,South Carolina,15-24 years,2018,648
+1579,South Carolina,15-24 years,2019,638
+1580,South Carolina,15-24 years,2020,792
+1581,South Carolina,15-24 years,2021,859
+1582,South Carolina,25-34 years,2018,1159
+1583,South Carolina,25-34 years,2019,1127
+1584,South Carolina,25-34 years,2020,1482
+1585,South Carolina,25-34 years,2021,1713
+1586,South Carolina,35-44 years,2018,1590
+1587,South Carolina,35-44 years,2019,1677
+1588,South Carolina,35-44 years,2020,2090
+1589,South Carolina,35-44 years,2021,2531
+1590,South Carolina,45-54 years,2018,3266
+1591,South Carolina,45-54 years,2019,3225
+1592,South Carolina,45-54 years,2020,3879
+1593,South Carolina,45-54 years,2021,4555
+1594,South Carolina,5-14 years,2018,44
+1595,South Carolina,5-14 years,2019,47
+1596,South Carolina,5-14 years,2020,58
+1597,South Carolina,5-14 years,2021,77
+1598,South Carolina,55-64 years,2018,7454
+1599,South Carolina,55-64 years,2019,7404
+1600,South Carolina,55-64 years,2020,8807
+1601,South Carolina,55-64 years,2021,9690
+1602,South Carolina,65-74 years,2018,10894
+1603,South Carolina,65-74 years,2019,10930
+1604,South Carolina,65-74 years,2020,13289
+1605,South Carolina,65-74 years,2021,14959
+1606,South Carolina,75-84 years,2018,12295
+1607,South Carolina,75-84 years,2019,12798
+1608,South Carolina,75-84 years,2020,15275
+1609,South Carolina,75-84 years,2021,16059
+1610,South Carolina,85+ years,2018,12762
+1611,South Carolina,85+ years,2019,12596
+1612,South Carolina,85+ years,2020,15080
+1613,South Carolina,85+ years,2021,14438
+1614,South Carolina,< 1 year,2018,406
+1615,South Carolina,< 1 year,2019,391
+1616,South Carolina,< 1 year,2020,364
+1617,South Carolina,< 1 year,2021,421
+1618,South Dakota,15-24 years,2018,49
+1619,South Dakota,15-24 years,2019,78
+1620,South Dakota,15-24 years,2020,44
+1621,South Dakota,15-24 years,2021,94
+1622,South Dakota,25-34 years,2018,170
+1623,South Dakota,25-34 years,2019,139
+1624,South Dakota,25-34 years,2020,191
+1625,South Dakota,25-34 years,2021,220
+1626,South Dakota,35-44 years,2018,170
+1627,South Dakota,35-44 years,2019,236
+1628,South Dakota,35-44 years,2020,296
+1629,South Dakota,35-44 years,2021,348
+1630,South Dakota,45-54 years,2018,390
+1631,South Dakota,45-54 years,2019,393
+1632,South Dakota,45-54 years,2020,438
+1633,South Dakota,45-54 years,2021,564
+1634,South Dakota,55-64 years,2018,945
+1635,South Dakota,55-64 years,2019,980
+1636,South Dakota,55-64 years,2020,1124
+1637,South Dakota,55-64 years,2021,1157
+1638,South Dakota,65-74 years,2018,1408
+1639,South Dakota,65-74 years,2019,1444
+1640,South Dakota,65-74 years,2020,1837
+1641,South Dakota,65-74 years,2021,1851
+1642,South Dakota,75-84 years,2018,1783
+1643,South Dakota,75-84 years,2019,1932
+1644,South Dakota,75-84 years,2020,2257
+1645,South Dakota,75-84 years,2021,2000
+1646,South Dakota,85+ years,2018,2878
+1647,South Dakota,85+ years,2019,2893
+1648,South Dakota,85+ years,2020,3497
+1649,South Dakota,85+ years,2021,2798
+1650,South Dakota,< 1 year,2018,11
+1651,South Dakota,< 1 year,2019,31
+1652,South Dakota,< 1 year,2020,12
+1653,Tennessee,1-4 years,2018,41
+1654,Tennessee,1-4 years,2020,34
+1655,Tennessee,1-4 years,2021,66
+1656,Tennessee,15-24 years,2018,794
+1657,Tennessee,15-24 years,2019,836
+1658,Tennessee,15-24 years,2020,1000
+1659,Tennessee,15-24 years,2021,1139
+1660,Tennessee,25-34 years,2018,1661
+1661,Tennessee,25-34 years,2019,1657
+1662,Tennessee,25-34 years,2020,2158
+1663,Tennessee,25-34 years,2021,2542
+1664,Tennessee,35-44 years,2018,2288
+1665,Tennessee,35-44 years,2019,2363
+1666,Tennessee,35-44 years,2020,3164
+1667,Tennessee,35-44 years,2021,3965
+1668,Tennessee,45-54 years,2018,5045
+1669,Tennessee,45-54 years,2019,4921
+1670,Tennessee,45-54 years,2020,5635
+1671,Tennessee,45-54 years,2021,6928
+1672,Tennessee,5-14 years,2018,103
+1673,Tennessee,5-14 years,2019,112
+1674,Tennessee,5-14 years,2020,95
+1675,Tennessee,5-14 years,2021,127
+1676,Tennessee,55-64 years,2018,10724
+1677,Tennessee,55-64 years,2019,10829
+1678,Tennessee,55-64 years,2020,12342
+1679,Tennessee,55-64 years,2021,14073
+1680,Tennessee,65-74 years,2018,14893
+1681,Tennessee,65-74 years,2019,15272
+1682,Tennessee,65-74 years,2020,18066
+1683,Tennessee,65-74 years,2021,20338
+1684,Tennessee,75-84 years,2018,17235
+1685,Tennessee,75-84 years,2019,17658
+1686,Tennessee,75-84 years,2020,20732
+1687,Tennessee,75-84 years,2021,21799
+1688,Tennessee,85+ years,2018,17638
+1689,Tennessee,85+ years,2019,17607
+1690,Tennessee,85+ years,2020,20391
+1691,Tennessee,85+ years,2021,19594
+1692,Tennessee,< 1 year,2018,560
+1693,Tennessee,< 1 year,2019,563
+1694,Tennessee,< 1 year,2020,495
+1695,Tennessee,< 1 year,2021,505
+1696,Texas,1-4 years,2018,441
+1697,Texas,1-4 years,2019,419
+1698,Texas,1-4 years,2020,397
+1699,Texas,1-4 years,2021,412
+1700,Texas,15-24 years,2018,2689
+1701,Texas,15-24 years,2019,2872
+1702,Texas,15-24 years,2020,3328
+1703,Texas,15-24 years,2021,3815
+1704,Texas,25-34 years,2018,4500
+1705,Texas,25-34 years,2019,4536
+1706,Texas,25-34 years,2020,5804
+1707,Texas,25-34 years,2021,6974
+1708,Texas,35-44 years,2018,6649
+1709,Texas,35-44 years,2019,6889
+1710,Texas,35-44 years,2020,8730
+1711,Texas,35-44 years,2021,11351
+1712,Texas,45-54 years,2018,13481
+1713,Texas,45-54 years,2019,13313
+1714,Texas,45-54 years,2020,16896
+1715,Texas,45-54 years,2021,20188
+1716,Texas,5-14 years,2018,558
+1717,Texas,5-14 years,2019,575
+1718,Texas,5-14 years,2020,588
+1719,Texas,5-14 years,2021,599
+1720,Texas,55-64 years,2018,29924
+1721,Texas,55-64 years,2019,29403
+1722,Texas,55-64 years,2020,36323
+1723,Texas,55-64 years,2021,40962
+1724,Texas,65-74 years,2018,40752
+1725,Texas,65-74 years,2019,41678
+1726,Texas,65-74 years,2020,53071
+1727,Texas,65-74 years,2021,58752
+1728,Texas,75-84 years,2018,47364
+1729,Texas,75-84 years,2019,48337
+1730,Texas,75-84 years,2020,60008
+1731,Texas,75-84 years,2021,61801
+1732,Texas,85+ years,2018,53768
+1733,Texas,85+ years,2019,53258
+1734,Texas,85+ years,2020,63218
+1735,Texas,85+ years,2021,60809
+1736,Texas,< 1 year,2018,2083
+1737,Texas,< 1 year,2019,2075
+1738,Texas,< 1 year,2020,1968
+1739,Texas,< 1 year,2021,1985
+1740,Utah,15-24 years,2018,320
+1741,Utah,15-24 years,2019,319
+1742,Utah,15-24 years,2020,325
+1743,Utah,15-24 years,2021,364
+1744,Utah,25-34 years,2018,524
+1745,Utah,25-34 years,2019,511
+1746,Utah,25-34 years,2020,594
+1747,Utah,25-34 years,2021,606
+1748,Utah,35-44 years,2018,758
+1749,Utah,35-44 years,2019,766
+1750,Utah,35-44 years,2020,853
+1751,Utah,35-44 years,2021,1021
+1752,Utah,45-54 years,2018,1037
+1753,Utah,45-54 years,2019,996
+1754,Utah,45-54 years,2020,1185
+1755,Utah,45-54 years,2021,1426
+1756,Utah,5-14 years,2021,23
+1757,Utah,55-64 years,2018,2094
+1758,Utah,55-64 years,2019,2104
+1759,Utah,55-64 years,2020,2415
+1760,Utah,55-64 years,2021,2718
+1761,Utah,65-74 years,2018,3181
+1762,Utah,65-74 years,2019,3217
+1763,Utah,65-74 years,2020,3868
+1764,Utah,65-74 years,2021,4248
+1765,Utah,75-84 years,2018,4456
+1766,Utah,75-84 years,2019,4656
+1767,Utah,75-84 years,2020,5355
+1768,Utah,75-84 years,2021,5491
+1769,Utah,85+ years,2018,5623
+1770,Utah,85+ years,2019,5798
+1771,Utah,85+ years,2020,6552
+1772,Utah,85+ years,2021,6369
+1773,Utah,< 1 year,2018,261
+1774,Utah,< 1 year,2019,249
+1775,Utah,< 1 year,2020,251
+1776,Utah,< 1 year,2021,218
+1777,Vermont,25-34 years,2018,110
+1778,Vermont,25-34 years,2019,73
+1779,Vermont,25-34 years,2020,73
+1780,Vermont,25-34 years,2021,75
+1781,Vermont,35-44 years,2018,125
+1782,Vermont,35-44 years,2019,112
+1783,Vermont,35-44 years,2020,171
+1784,Vermont,35-44 years,2021,202
+1785,Vermont,45-54 years,2018,279
+1786,Vermont,45-54 years,2019,273
+1787,Vermont,45-54 years,2020,304
+1788,Vermont,45-54 years,2021,346
+1789,Vermont,55-64 years,2018,687
+1790,Vermont,55-64 years,2019,728
+1791,Vermont,55-64 years,2020,758
+1792,Vermont,55-64 years,2021,811
+1793,Vermont,65-74 years,2018,1083
+1794,Vermont,65-74 years,2019,1209
+1795,Vermont,65-74 years,2020,1250
+1796,Vermont,65-74 years,2021,1356
+1797,Vermont,75-84 years,2018,1472
+1798,Vermont,75-84 years,2019,1405
+1799,Vermont,75-84 years,2020,1612
+1800,Vermont,75-84 years,2021,1719
+1801,Vermont,85+ years,2018,2144
+1802,Vermont,85+ years,2019,2024
+1803,Vermont,85+ years,2020,2168
+1804,Vermont,85+ years,2021,2226
+1805,Virginia,1-4 years,2018,11
+1806,Virginia,1-4 years,2019,30
+1807,Virginia,1-4 years,2020,35
+1808,Virginia,1-4 years,2021,58
+1809,Virginia,15-24 years,2018,725
+1810,Virginia,15-24 years,2019,708
+1811,Virginia,15-24 years,2020,871
+1812,Virginia,15-24 years,2021,960
+1813,Virginia,25-34 years,2018,1348
+1814,Virginia,25-34 years,2019,1359
+1815,Virginia,25-34 years,2020,1694
+1816,Virginia,25-34 years,2021,1906
+1817,Virginia,35-44 years,2018,1889
+1818,Virginia,35-44 years,2019,1900
+1819,Virginia,35-44 years,2020,2496
+1820,Virginia,35-44 years,2021,2827
+1821,Virginia,45-54 years,2018,4155
+1822,Virginia,45-54 years,2019,3829
+1823,Virginia,45-54 years,2020,4553
+1824,Virginia,45-54 years,2021,5003
+1825,Virginia,5-14 years,2018,123
+1826,Virginia,5-14 years,2019,75
+1827,Virginia,5-14 years,2020,87
+1828,Virginia,5-14 years,2021,84
+1829,Virginia,55-64 years,2018,9302
+1830,Virginia,55-64 years,2019,9370
+1831,Virginia,55-64 years,2020,10610
+1832,Virginia,55-64 years,2021,11757
+1833,Virginia,65-74 years,2018,13639
+1834,Virginia,65-74 years,2019,13924
+1835,Virginia,65-74 years,2020,16035
+1836,Virginia,65-74 years,2021,17959
+1837,Virginia,75-84 years,2018,17053
+1838,Virginia,75-84 years,2019,17477
+1839,Virginia,75-84 years,2020,20076
+1840,Virginia,75-84 years,2021,21280
+1841,Virginia,85+ years,2018,20474
+1842,Virginia,85+ years,2019,20988
+1843,Virginia,85+ years,2020,23486
+1844,Virginia,85+ years,2021,23450
+1845,Virginia,< 1 year,2018,558
+1846,Virginia,< 1 year,2019,570
+1847,Virginia,< 1 year,2020,544
+1848,Virginia,< 1 year,2021,566
+1849,Washington,1-4 years,2021,10
+1850,Washington,15-24 years,2018,614
+1851,Washington,15-24 years,2019,551
+1852,Washington,15-24 years,2020,694
+1853,Washington,15-24 years,2021,775
+1854,Washington,25-34 years,2018,1094
+1855,Washington,25-34 years,2019,1095
+1856,Washington,25-34 years,2020,1287
+1857,Washington,25-34 years,2021,1539
+1858,Washington,35-44 years,2018,1490
+1859,Washington,35-44 years,2019,1512
+1860,Washington,35-44 years,2020,1864
+1861,Washington,35-44 years,2021,2328
+1862,Washington,45-54 years,2018,2996
+1863,Washington,45-54 years,2019,3056
+1864,Washington,45-54 years,2020,3395
+1865,Washington,45-54 years,2021,3916
+1866,Washington,5-14 years,2018,49
+1867,Washington,5-14 years,2019,70
+1868,Washington,5-14 years,2020,63
+1869,Washington,5-14 years,2021,82
+1870,Washington,55-64 years,2018,7333
+1871,Washington,55-64 years,2019,7349
+1872,Washington,55-64 years,2020,7848
+1873,Washington,55-64 years,2021,8912
+1874,Washington,65-74 years,2018,11279
+1875,Washington,65-74 years,2019,11707
+1876,Washington,65-74 years,2020,12832
+1877,Washington,65-74 years,2021,14515
+1878,Washington,75-84 years,2018,13254
+1879,Washington,75-84 years,2019,14041
+1880,Washington,75-84 years,2020,15264
+1881,Washington,75-84 years,2021,16485
+1882,Washington,85+ years,2018,18245
+1883,Washington,85+ years,2019,18417
+1884,Washington,85+ years,2020,19412
+1885,Washington,85+ years,2021,19669
+1886,Washington,< 1 year,2018,401
+1887,Washington,< 1 year,2019,365
+1888,Washington,< 1 year,2020,373
+1889,Washington,< 1 year,2021,360
+1890,West Virginia,15-24 years,2018,187
+1891,West Virginia,15-24 years,2019,198
+1892,West Virginia,15-24 years,2020,184
+1893,West Virginia,15-24 years,2021,211
+1894,West Virginia,25-34 years,2018,510
+1895,West Virginia,25-34 years,2019,518
+1896,West Virginia,25-34 years,2020,620
+1897,West Virginia,25-34 years,2021,651
+1898,West Virginia,35-44 years,2018,771
+1899,West Virginia,35-44 years,2019,816
+1900,West Virginia,35-44 years,2020,1009
+1901,West Virginia,35-44 years,2021,1216
+1902,West Virginia,45-54 years,2018,1540
+1903,West Virginia,45-54 years,2019,1437
+1904,West Virginia,45-54 years,2020,1677
+1905,West Virginia,45-54 years,2021,2047
+1906,West Virginia,55-64 years,2018,3384
+1907,West Virginia,55-64 years,2019,3346
+1908,West Virginia,55-64 years,2020,3631
+1909,West Virginia,55-64 years,2021,4420
+1910,West Virginia,65-74 years,2018,5009
+1911,West Virginia,65-74 years,2019,5013
+1912,West Virginia,65-74 years,2020,5751
+1913,West Virginia,65-74 years,2021,6932
+1914,West Virginia,75-84 years,2018,5826
+1915,West Virginia,75-84 years,2019,5942
+1916,West Virginia,75-84 years,2020,6614
+1917,West Virginia,75-84 years,2021,7125
+1918,West Virginia,85+ years,2018,6056
+1919,West Virginia,85+ years,2019,5969
+1920,West Virginia,85+ years,2020,6420
+1921,West Virginia,85+ years,2021,6713
+1922,West Virginia,< 1 year,2018,92
+1923,West Virginia,< 1 year,2019,80
+1924,West Virginia,< 1 year,2020,96
+1925,West Virginia,< 1 year,2021,93
+1926,Wisconsin,1-4 years,2018,20
+1927,Wisconsin,1-4 years,2019,10
+1928,Wisconsin,1-4 years,2020,10
+1929,Wisconsin,15-24 years,2018,461
+1930,Wisconsin,15-24 years,2019,456
+1931,Wisconsin,15-24 years,2020,564
+1932,Wisconsin,15-24 years,2021,580
+1933,Wisconsin,25-34 years,2018,973
+1934,Wisconsin,25-34 years,2019,865
+1935,Wisconsin,25-34 years,2020,1159
+1936,Wisconsin,25-34 years,2021,1212
+1937,Wisconsin,35-44 years,2018,1167
+1938,Wisconsin,35-44 years,2019,1281
+1939,Wisconsin,35-44 years,2020,1512
+1940,Wisconsin,35-44 years,2021,1846
+1941,Wisconsin,45-54 years,2018,2551
+1942,Wisconsin,45-54 years,2019,2554
+1943,Wisconsin,45-54 years,2020,2873
+1944,Wisconsin,45-54 years,2021,3073
+1945,Wisconsin,5-14 years,2018,20
+1946,Wisconsin,5-14 years,2019,45
+1947,Wisconsin,5-14 years,2020,35
+1948,Wisconsin,5-14 years,2021,53
+1949,Wisconsin,55-64 years,2018,6254
+1950,Wisconsin,55-64 years,2019,6315
+1951,Wisconsin,55-64 years,2020,7320
+1952,Wisconsin,55-64 years,2021,7444
+1953,Wisconsin,65-74 years,2018,9491
+1954,Wisconsin,65-74 years,2019,9944
+1955,Wisconsin,65-74 years,2020,11871
+1956,Wisconsin,65-74 years,2021,11994
+1957,Wisconsin,75-84 years,2018,12890
+1958,Wisconsin,75-84 years,2019,13223
+1959,Wisconsin,75-84 years,2020,15200
+1960,Wisconsin,75-84 years,2021,14982
+1961,Wisconsin,85+ years,2018,19352
+1962,Wisconsin,85+ years,2019,19013
+1963,Wisconsin,85+ years,2020,21697
+1964,Wisconsin,85+ years,2021,19362
+1965,Wisconsin,< 1 year,2018,393
+1966,Wisconsin,< 1 year,2019,371
+1967,Wisconsin,< 1 year,2020,361
+1968,Wisconsin,< 1 year,2021,329
+1969,Wyoming,15-24 years,2018,10
+1970,Wyoming,15-24 years,2019,11
+1971,Wyoming,15-24 years,2021,20
+1972,Wyoming,25-34 years,2018,38
+1973,Wyoming,25-34 years,2019,68
+1974,Wyoming,25-34 years,2020,134
+1975,Wyoming,25-34 years,2021,122
+1976,Wyoming,35-44 years,2018,142
+1977,Wyoming,35-44 years,2019,157
+1978,Wyoming,35-44 years,2020,184
+1979,Wyoming,35-44 years,2021,242
+1980,Wyoming,45-54 years,2018,296
+1981,Wyoming,45-54 years,2019,279
+1982,Wyoming,45-54 years,2020,322
+1983,Wyoming,45-54 years,2021,354
+1984,Wyoming,55-64 years,2018,664
+1985,Wyoming,55-64 years,2019,673
+1986,Wyoming,55-64 years,2020,801
+1987,Wyoming,55-64 years,2021,997
+1988,Wyoming,65-74 years,2018,1002
+1989,Wyoming,65-74 years,2019,1042
+1990,Wyoming,65-74 years,2020,1294
+1991,Wyoming,65-74 years,2021,1517
+1992,Wyoming,75-84 years,2018,1258
+1993,Wyoming,75-84 years,2019,1233
+1994,Wyoming,75-84 years,2020,1492
+1995,Wyoming,75-84 years,2021,1569
+1996,Wyoming,85+ years,2018,1479
+1997,Wyoming,85+ years,2019,1478
+1998,Wyoming,85+ years,2020,1605
+1999,Wyoming,85+ years,2021,1606
